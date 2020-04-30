@@ -1,4 +1,4 @@
-# staistical-testing-in-python
+# Application of Statistical Testing in Python
 
 While Python is a powerful, general purpose, language that is widely used in data science, R is a domain-specific language designed for statistical analysis. Its libraries are often released by researchers and the documentation and code is accompanied by citations from scientific papers. The application of statistical formulas are much simplier with R language and the outputs tend to be more informative than their counterparts in Python (although there are packages in Python that can provide a similar framework to R, i.e. statsmodels). 
 
